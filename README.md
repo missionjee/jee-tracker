@@ -3,9 +3,14 @@
 [![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-6-purple?logo=vite)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/missionjee/jee-tracker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 An all-in-one preparation tracker and analytics tool crafted specifically for **JEE Main & JEE Advanced** aspirants. Designed to eliminate study chaos, diagnose mock test score leaks, track authentic PCM syllabus completion, and destroy backlogs systematically.
+
+### 🌐 Live Demo & Deployments
+- **Netlify 1-Click Deploy:** [Click here to deploy instantly on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/missionjee/jee-tracker)
+- **GitHub Pages:** [missionjee.github.io/jee-tracker](https://missionjee.github.io/jee-tracker/)
 
 ---
 
